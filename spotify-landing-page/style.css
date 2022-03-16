@@ -29,6 +29,8 @@ li {
 header {
     background-color: #000000;
     height: var(--header-height);
+    position: fixed;
+    width: 100%;
 }
 
 header .container {
